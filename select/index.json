@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "The Sound of Silence",
+  "base_artist": "Disturbed",
+  "createdAt": "2026-02-17T11:14:28.596553Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Sound Of Silence - The Sound Of Silence",
+      "artist": "Simon And Garfunkel",
+      "has_synced": true,
+      "path": "select/01_The_Sound_Of_Silence_-_The_Sound_Of_Silence_Simon_And_Garfunkel.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Sound of Silence",
+      "artist": "Disturbed",
+      "has_synced": true,
+      "path": "select/02_The_Sound_of_Silence_Disturbed.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Sound Of Silence",
+      "artist": "Disturbed",
+      "has_synced": true,
+      "path": "select/03_The_Sound_Of_Silence_Disturbed.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Sound of Silence",
+      "artist": "Disturbed",
+      "has_synced": true,
+      "path": "select/04_The_Sound_of_Silence_Disturbed.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Sound Of Silence",
+      "artist": "Disturbed",
+      "has_synced": true,
+      "path": "select/05_The_Sound_Of_Silence_Disturbed.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Sound of Silence",
+      "artist": "Disturbed",
+      "has_synced": true,
+      "path": "select/06_The_Sound_of_Silence_Disturbed.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Sound of Silence",
+      "artist": "Disturbed",
+      "has_synced": true,
+      "path": "select/07_The_Sound_of_Silence_Disturbed.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Sound Of Silence",
+      "artist": "Simon & Garfunkle",
+      "has_synced": true,
+      "path": "select/08_The_Sound_Of_Silence_Simon_&_Garfunkle.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Sound of Silence",
+      "artist": "Bananarama",
+      "has_synced": false,
+      "path": "select/09_The_Sound_of_Silence_Bananarama.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Sound Of Silence",
+      "artist": "Disturbed",
+      "has_synced": true,
+      "path": "select/10_The_Sound_Of_Silence_Disturbed.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Sound of Silence",
+      "artist": "Nick",
+      "has_synced": false,
+      "path": "select/11_The_Sound_of_Silence_Nick.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Sound of Silence",
+      "artist": "Gregorian",
+      "has_synced": true,
+      "path": "select/12_The_Sound_of_Silence_Gregorian.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Sound Of Silence",
+      "artist": "Disturbed",
+      "has_synced": true,
+      "path": "select/13_The_Sound_Of_Silence_Disturbed.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Sound of Silence",
+      "artist": "Disturbed",
+      "has_synced": true,
+      "path": "select/14_The_Sound_of_Silence_Disturbed.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Sound Of Silence",
+      "artist": "Simon & Garfunkel",
+      "has_synced": true,
+      "path": "select/15_The_Sound_Of_Silence_Simon_&_Garfunkel.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Sound of Silence",
+      "artist": "Disturbed",
+      "has_synced": true,
+      "path": "select/16_The_Sound_of_Silence_Disturbed.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "the sound of silence",
+      "artist": "disturbed",
+      "has_synced": true,
+      "path": "select/17_the_sound_of_silence_disturbed.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Sound of Silence",
+      "artist": "Disturbed",
+      "has_synced": false,
+      "path": "select/pl_01_The_Sound_of_Silence_Disturbed.txt"
+    }
+  ]
+}
